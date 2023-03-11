@@ -1,7 +1,12 @@
 
-
+<img align="centre" width="500" alt="Coder" src="https://media.tenor.com/Lp_nhYGaXMIAAAAC/int-increase.gif">
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center"> (Open for Hiring)</p>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyadi&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyadi" /> </p>
 
@@ -15,7 +20,7 @@
 
 - 📫 How to reach me **ak5703@srmist.edu.in**
 
-- ⚡ Fun fact **You will never feel bore with me.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +39,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekyadi&show_icons=true&locale=en" alt="abhishekyadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekyadi&" alt="abhishekyadi" /></p>
+<samp>
+ <img height="120" alt="Thanks you" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+    <p align="center">
+        ════ ......ABHISHEK..... ════
+        <br>
+        "Enjoy the world of Coding 💻!"
+    </p>
+</samp>
+
+
